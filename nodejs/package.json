@@ -1,0 +1,11 @@
+{
+  "name": "DevCorner",
+  "description": "Setup: start express server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
