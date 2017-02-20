@@ -8,6 +8,6 @@
 
 `./bin/nodejs.sh`
 
-# For remote people you also need to tunnel your local environment
+# Everyone must tunnel your local environment
 
 `./bin/start_tunnel.sh`
